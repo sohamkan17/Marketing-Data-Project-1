@@ -71,7 +71,7 @@ Each business question also lives as a standalone file in `/sql`, runnable again
 Clone the repository and install the dependencies (Python 3.9+):
 
 ```bash
-git clone https://github.com/sohamkan17/Marketing-Data-Project-1.git
+git clone https://github.com/sohamkan17/Data-Analysis-Social-Media-Marketing.git
 cd Marketing-Data-Project-1
 pip install pandas seaborn matplotlib
 ```
